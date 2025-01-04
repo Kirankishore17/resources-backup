@@ -30,6 +30,7 @@ Here are some essential Docker commands:
 - [Learn from the Docker Captain](https://www.udemy.com/course/docker-mastery/)
 - [Hands on Docker](https://www.udemy.com/course/hands-on-with-docker-and-docker-compose/)
 - [Managing Containers](https://www.pluralsight.com/paths/managing-containers-with-docker)
+- [Docker Basics Hands on](https://www.udemy.com/course/learn-docker)
 
 ## Docker Compose
 Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Compose works in all environments: production, staging, development, testing, as well as CI workflows. With Docker Compose, you can easily deploy multiple containers with a single command.
