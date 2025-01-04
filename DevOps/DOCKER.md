@@ -4,6 +4,20 @@
 
 Docker is a set of platform as a service products that delivers software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
 
+## Docker Basics :bulb:
+
+- **Images**: Docker images are templates used to create containers. Learn how to build your own images and customize them for different needs.
+- **Containers**: Containers are the executable units of Docker. They encapsulate an application and its dependencies.
+- **Docker Hub**: A cloud-based repository for sharing Docker images. You can find public images for many commonly used applications.
+
+## Docker Commands :gear:
+
+Here are some essential Docker commands:
+- `docker run`: Run a container from an image.
+- `docker ps`: List running containers.
+- `docker build`: Build an image from a Dockerfile.
+- `docker pull`: Pull an image from Docker Hub.
+
 ## Getting Started :book:
 
 - [What is Docker](https://www.youtube.com/watch?v=lcQfQRDAMpQ)
